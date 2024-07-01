@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "55a82520792fb000",
+    "type": "split",
+    "children": [
+      {
+        "id": "343aa5dff8898dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0420b8ca909151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/daily scrum 6.30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b27faeef5f6d016e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Sprint/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "376c5bb8b2be08fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "eddaf2127c5b2032",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775716a8f68b2972",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0bcffa7bc7e02151",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46b557d7fa6a66a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2f6dd8076ca76fa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5018695368a1486",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8324da0156fc1aec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "✏️ Daily Scrum/daily scrum 6.30.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08cd7086ce2f5d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "✏️ Daily Scrum/daily scrum 6.30.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de8b2ef0695e7027",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1877bbdf9b329874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "✏️ Daily Scrum/daily scrum 6.30.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4c0420b8ca909151",
+  "lastOpenFiles": [
+    "✏️ Daily Scrum/daily scrum 7.2.md",
+    "✏️ Daily Scrum/daily scrum 7.1.md",
+    "✨ LLM/로컬 환경에서 LLM 구동.md",
+    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+    "✏️ Sprint/Untitled.md",
+    "✨ BackEnd WiKi/Untitled.md",
+    "✏️ Daily Scrum/daily scrum 6.30.md",
+    "().md",
+    "✏️ Daily Scrum/daily scrum 7.3.md",
+    "✏️ Daily Scrum/daily scrum 7.4.md",
+    "✏️ Daily Scrum/daily scrum 6.29.md",
+    "✏️ Daily Scrum/daily scrum 6.28.md",
+    "✨ LLM",
+    "✨ BackEnd WiKi",
+    "✨ FrontEnd WiKi",
+    "✏️ Sprint",
+    "✏️ Daily Scrum"
+  ]
+}
