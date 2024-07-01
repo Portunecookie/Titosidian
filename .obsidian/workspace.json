@@ -11,11 +11,28 @@
             "id": "4c0420b8ca909151",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/daily scrum 6.29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f8c4fd83ef9ace3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗂 Package 구조.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
     "id": "2f6dd8076ca76fa8",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🗂 Package 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🗂 Package 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🗂 Package 구조.md"
+              }
             }
           }
         ]
@@ -138,21 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0420b8ca909151",
+  "active": "f8c4fd83ef9ace3a",
   "lastOpenFiles": [
-    "✏️ Sprint/sprint 5 (6.28-7.4).md",
-    "✏️ Daily Scrum/daily scrum 6.28.md",
-    "✏️ Daily Scrum/sprint 5",
-    "✨ BackEnd WiKi/BackEnd WiKi.md",
-    "✏️ Daily Scrum/daily scrum 7.1.md",
+    "image.zip/notion.png",
+    "🗂 Package 구조.md",
+    "📍 Commit Messge Rules.md",
+    "image.zip/placeholder.png",
+    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
+    "image.zip",
+    "✨ LLM/로컬 환경에서 LLM 구동.md",
+    "✏️ Daily Scrum/daily scrum 6.29.md",
+    "✏️ Daily Scrum/daily scrum 7.4.md",
     "✏️ Daily Scrum/daily scrum 7.2.md",
+    "✏️ Daily Scrum/daily scrum 6.28.md",
+    "✏️ Sprint/sprint 5 (6.28-7.4).md",
+    "✏️ Daily Scrum/sprint 5",
+    "✏️ Daily Scrum/daily scrum 7.1.md",
     "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "✏️ Daily Scrum/daily scrum 7.3.md",
     "✏️ Daily Scrum/daily scrum 6.30.md",
-    "✨ LLM/로컬 환경에서 LLM 구동.md",
     "().md",
-    "✏️ Daily Scrum/daily scrum 7.4.md",
-    "✏️ Daily Scrum/daily scrum 6.29.md",
     "✨ LLM",
     "✨ BackEnd WiKi",
     "✨ FrontEnd WiKi",
