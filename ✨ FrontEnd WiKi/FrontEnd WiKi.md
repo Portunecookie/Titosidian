@@ -47,6 +47,13 @@ mainAxisAlignment: MainAxisAlignment.center -> 중앙 정렬
 * 사용후 불필요하게 메모리를 잡아 먹어서 dispose해줘야한다
 <img width="244" alt="image" src="https://github.com/Portunecookie/TiTo/assets/74090222/9259ff27-779b-486f-a111-7beb441ba92a">
 
+### 좋아요 게시물 모아두기
+ * 섹션 8
+
+ * 
+### 화면 넘어갈 때
+* Navigator.of().push -> 위로 쌓이면서 뒤로 가면 빠져나감 게시물 상세 보기할 때 사용, 마이페이지나
+
 ### stack
 *  shape 방지해서 shape혼자로는 모양 못 바꿈 clipBehavior도 해줘야함
 * ![[Pasted image 20240702105953.png]]

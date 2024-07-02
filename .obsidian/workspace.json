@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "46da9c94aa416fc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md"
               }
             }
           }
@@ -171,10 +159,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "46da9c94aa416fc6",
+  "active": "dfcf851871a1805f",
   "lastOpenFiles": [
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "conflict-files-obsidian-git.md",
+    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "📍 Commit Messge Rules.md",
     "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
     "image.zip/notion.png",
