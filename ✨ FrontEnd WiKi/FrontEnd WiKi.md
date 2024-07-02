@@ -46,6 +46,10 @@ mainAxisAlignment: MainAxisAlignment.center -> 중앙 정렬
 * 입력된 텍스트를 수정가능
 * 사용후 불필요하게 메모리를 잡아 먹어서 dispose해줘야한다
 <img width="244" alt="image" src="https://github.com/Portunecookie/TiTo/assets/74090222/9259ff27-779b-486f-a111-7beb441ba92a">
+
+### stack
+*  shape 방지해서 shape혼자로는 모양 못 바꿈 clipBehavior도 해줘야함
+* ![[Pasted image 20240702105953.png]]
 ---
   
 | @Junha, 2024.06.30.
