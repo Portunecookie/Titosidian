@@ -50,13 +50,20 @@ mainAxisAlignment: MainAxisAlignment.center -> 중앙 정렬
 ### 좋아요 게시물 모아두기
  * 섹션 8
 
- * 
+
 ### 화면 넘어갈 때
 * Navigator.of().push -> 위로 쌓이면서 뒤로 가면 빠져나감 게시물 상세 보기할 때 사용, 마이페이지나
 
 ### stack
 *  shape 방지해서 shape혼자로는 모양 못 바꿈 clipBehavior도 해줘야함
 * ![[Pasted image 20240702105953.png]]
----
+
+## 백엔드 연동
+### post 예시 
+* shopping-list는 내가 보내는 이름
+* body값을 보냄
+![[Pasted image 20240704000755.png]]
+
+--- 
   
 | @Junha, 2024.06.30.
