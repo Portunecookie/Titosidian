@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.4.md",
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.4.md",
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.4.md"
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md"
               }
             }
           }
@@ -184,10 +183,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7167790418bad087",
+  "active": "4c0420b8ca909151",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/daily scrum 7.3.md",
+    "image.zip/Pasted image 20240704145708.png",
     "✏️ Daily Scrum/daily scrum 7.4.md",
+    "✏️ Daily Scrum/daily scrum 7.3.md",
     "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "image.zip/Pasted image 20240704011648.png",
     "image.zip/Pasted image 20240704011619.png",

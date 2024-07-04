@@ -49,7 +49,8 @@ mainAxisAlignment: MainAxisAlignment.center -> 중앙 정렬
 
 ### 좋아요 게시물 모아두기
  * 섹션 8
-
+### 슬라이더 하는 법
+![[Pasted image 20240704145708.png]]
 
 ### 화면 넘어갈 때
 * Navigator.of().push -> 위로 쌓이면서 뒤로 가면 빠져나감 게시물 상세 보기할 때 사용, 마이페이지나
