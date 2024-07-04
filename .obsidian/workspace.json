@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+                "file": "✏️ Daily Scrum/daily scrum 7.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+                "file": "✏️ Daily Scrum/daily scrum 7.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+                "file": "✏️ Daily Scrum/daily scrum 7.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md"
+                "file": "✏️ Daily Scrum/daily scrum 7.4.md"
               }
             }
           }
@@ -186,6 +186,9 @@
   },
   "active": "7167790418bad087",
   "lastOpenFiles": [
+    "✏️ Daily Scrum/daily scrum 7.3.md",
+    "✏️ Daily Scrum/daily scrum 7.4.md",
+    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "image.zip/Pasted image 20240704011648.png",
     "image.zip/Pasted image 20240704011619.png",
     "image.zip/Pasted image 20240704011357.png",
@@ -196,10 +199,7 @@
     "image.zip/Pasted image 20240704002908.png",
     "image.zip/Pasted image 20240704002427.png",
     "image.zip/Pasted image 20240704002158.png",
-    "image.zip/Pasted image 20240704002023.png",
     "conflict-files-obsidian-git.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
-    "✏️ Daily Scrum/daily scrum 7.3.md",
     "✏️ Daily Scrum/daily scrum 7.2.md",
     "✏️ Sprint/sprint 5 (6.28-7.4).md",
     "✨ LLM/한국어 LLM 모델 찾기.md",
@@ -213,7 +213,6 @@
     "✏️ Daily Scrum/daily scrum 6.30.md",
     "✨ LLM/로컬 환경에서 LLM 구동.md",
     "().md",
-    "✏️ Daily Scrum/daily scrum 7.4.md",
     "✏️ Daily Scrum/daily scrum 6.29.md",
     "✨ LLM",
     "✨ BackEnd WiKi",
