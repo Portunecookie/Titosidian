@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "📍 Commit Messge Rules.md",
+                "file": "✨ BackEnd WiKi/ERD 수정사안.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ae8afa8eed838fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7c64bd5fa7dbf72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📍 Commit Messge Rules.md",
+                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📍 Commit Messge Rules.md",
+                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📍 Commit Messge Rules.md"
+                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md"
               }
             }
           }
@@ -171,17 +195,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ac7487ac8544bc8",
+  "active": "a7c64bd5fa7dbf72",
   "lastOpenFiles": [
-    "✨ BackEnd WiKi/ERD 수정사안.md",
-    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
-    "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
-    "📍 Commit Messge Rules.md",
-    "🖋 네이밍.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.6.md",
+    "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.5.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 7.4.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 6.28.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.8.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.9.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.7.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.6.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.11.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.10.md",
+    "✏️ Daily Scrum/sprint 8",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.9.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.8.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.7.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.6.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.11.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.10.md",
+    "✏️ Daily Scrum/sprint 7",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.9.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.8.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.7.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.6.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.11.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.5.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.10.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)",
+    "✏️ Daily Scrum/sprint 6 - 복사본/daily scrum 7.9.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본/daily scrum 7.8.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본/daily scrum 7.7.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본",
     "✏️ Daily Scrum/sprint 6",
     "image.zip/Pasted image 20240704011648.png",
     "image.zip/Pasted image 20240704011619.png",
@@ -191,27 +236,12 @@
     "image.zip/Pasted image 20240704003349.png",
     "image.zip/Pasted image 20240704002158.png",
     "image.zip/Pasted image 20240702232219.png",
-    "✨ LLM/한국어 LLM 모델 찾기.md",
     "image.zip/Pasted image 20240704145708.png",
     "image.zip/Pasted image 20240704003511.png",
-    "✏️ Daily Scrum/sprint 5/daily scrum 6.29.md",
-    "✏️ Sprint/sprint 5 (6.28-7.4).md",
-    "✏️ Sprint/sprint 5/Untitled.md",
     "✏️ Sprint/sprint 5",
-    "README.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 7.3.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 7.2.md",
-    "✨ LLM/로컬 환경에서 LLM 구동.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "image.zip",
     "✏️ Daily Scrum/sprint 5",
-    "✏️ Daily Scrum/sprint 5/daily scrum 7.1.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 6.30.md",
-    "().md",
     "✨ LLM",
-    "✨ BackEnd WiKi",
-    "✨ FrontEnd WiKi",
-    "✏️ Sprint",
-    "✏️ Daily Scrum"
+    "✨ BackEnd WiKi"
   ]
 }
