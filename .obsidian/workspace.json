@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c0420b8ca909151",
+            "id": "f8c4fd83ef9ace3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 6.29.md",
+                "file": "🗂 Backend-Package 구조.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f8c4fd83ef9ace3a",
+            "id": "6064063fe325b95a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.2.md",
+                "file": "📍 Commit Messge Rules.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 222.5
   },
   "right": {
     "id": "2f6dd8076ca76fa8",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.2.md",
+                "file": "📍 Commit Messge Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.2.md",
+                "file": "📍 Commit Messge Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/daily scrum 7.2.md"
+                "file": "📍 Commit Messge Rules.md"
               }
             }
           }
@@ -159,25 +159,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8c4fd83ef9ace3a",
+  "active": "6064063fe325b95a",
   "lastOpenFiles": [
-    "Pasted image 20240702105953.png",
+    "✨ BackEnd WiKi/ERD 수정사안.md",
+    "🗂 Backend-Package 구조.md",
     "📍 Commit Messge Rules.md",
-    "🗂 Package 구조.md",
+    "✏️ Daily Scrum/daily scrum 6.29.md",
+    "🖋 네이밍.md",
+    "✏️ Sprint/sprint 5 (6.28-7.4).md",
+    "✏️ Sprint/sprint 5/Untitled.md",
+    "✏️ Sprint/sprint 5",
+    "✏️ Daily Scrum/daily scrum 7.5.md",
+    "README.md",
+    "✏️ Daily Scrum/daily scrum 7.4.md",
+    "✏️ Daily Scrum/daily scrum 7.3.md",
+    "✏️ Daily Scrum/daily scrum 7.2.md",
+    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
+    "✨ LLM/로컬 환경에서 LLM 구동.md",
+    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+    "image.zip/Pasted image 20240702105953.png",
     "image.zip/notion.png",
     "image.zip/placeholder.png",
-    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
     "image.zip",
-    "✨ LLM/로컬 환경에서 LLM 구동.md",
-    "✏️ Daily Scrum/daily scrum 6.29.md",
-    "✏️ Daily Scrum/daily scrum 7.4.md",
-    "✏️ Daily Scrum/daily scrum 7.2.md",
     "✏️ Daily Scrum/daily scrum 6.28.md",
-    "✏️ Sprint/sprint 5 (6.28-7.4).md",
     "✏️ Daily Scrum/sprint 5",
     "✏️ Daily Scrum/daily scrum 7.1.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
-    "✏️ Daily Scrum/daily scrum 7.3.md",
     "✏️ Daily Scrum/daily scrum 6.30.md",
     "().md",
     "✨ LLM",
