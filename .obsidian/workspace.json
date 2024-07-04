@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
+                "file": "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
+                "file": "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
+                "file": "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨ BackEnd WiKi/🗂 Backend-Package 구조.md"
+                "file": "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md"
               }
             }
           }
@@ -197,7 +197,10 @@
   },
   "active": "a7c64bd5fa7dbf72",
   "lastOpenFiles": [
+    "✨ BackEnd WiKi/인터페이스 (Interface) vs 구현체 (Implementation).md",
     "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
+    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
+    "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.8.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.9.md",
@@ -223,9 +226,6 @@
     "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 6 - 복사본 (2)/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 6 - 복사본 (2)",
-    "✏️ Daily Scrum/sprint 6 - 복사본/daily scrum 7.9.md",
-    "✏️ Daily Scrum/sprint 6 - 복사본/daily scrum 7.8.md",
-    "✏️ Daily Scrum/sprint 6 - 복사본/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 6 - 복사본",
     "✏️ Daily Scrum/sprint 6",
     "image.zip/Pasted image 20240704011648.png",
