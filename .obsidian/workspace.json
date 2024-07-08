@@ -8,13 +8,37 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c0420b8ca909151",
+            "id": "f8c4fd83ef9ace3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "📍 Commit Messge Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ae8afa8eed838fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7c64bd5fa7dbf72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📍 Commit Messge Rules.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 222.5
   },
   "right": {
     "id": "2f6dd8076ca76fa8",
@@ -146,15 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c0420b8ca909151",
+  "active": "f8c4fd83ef9ace3a",
   "lastOpenFiles": [
     "✏️ Daily Scrum/sprint 6/daily scrum 7.5.md",
+    "✏️ Daily Scrum/sprint 6/daily scrum 7.7.md",
+    "✏️ Daily Scrum/sprint 6/daily scrum 7.8.md",
+    "✏️ Daily Scrum/sprint 6/daily scrum 7.9.md",
+    "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
     "📍 Commit Messge Rules.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
-    "🖋 네이밍.md",
+    "✏️ Daily Scrum/sprint 6/daily scrum 7.6.md",
+    "✨ BackEnd WiKi/인터페이스 (Interface) vs 구현체 (Implementation).md",
+    "✨ BackEnd WiKi/ERD 수정사안.md",
+    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
+    "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
     "✏️ Daily Scrum/sprint 5/daily scrum 7.4.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.9.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.8.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.9.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.6.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
@@ -163,36 +194,29 @@
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.9.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.8.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.6.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.11.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 7",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.9.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.8.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.7.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.6.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.11.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.10.md",
+    "✏️ Daily Scrum/sprint 6 - 복사본 (2)",
+    "✏️ Daily Scrum/sprint 6 - 복사본",
     "✏️ Daily Scrum/sprint 6",
-    "✏️ Daily Scrum/daily scrum 7.4.md",
-    "✏️ Daily Scrum/sprint 5",
-    "image.zip/Pasted image 20240704145708.png",
-    "image.zip/Pasted image 20240704003432.png",
     "image.zip/Pasted image 20240704011648.png",
-    "image.zip/Pasted image 20240704011357.png",
     "image.zip/Pasted image 20240704011619.png",
-    "image.zip/Pasted image 20240704003511.png",
-    "image.zip/Pasted image 20240704002158.png",
-    "image.zip/Pasted image 20240704002908.png",
-    "image.zip/Pasted image 20240704003349.png",
+    "image.zip/Pasted image 20240704011357.png",
+    "image.zip/Pasted image 20240704003432.png",
     "image.zip/Pasted image 20240704002916.png",
+    "image.zip/Pasted image 20240704003349.png",
+    "image.zip/Pasted image 20240704002158.png",
+    "image.zip/Pasted image 20240702232219.png",
+    "image.zip/Pasted image 20240704145708.png",
+    "image.zip/Pasted image 20240704003511.png",
+    "✏️ Sprint/sprint 5",
     "image.zip",
+    "✏️ Daily Scrum/sprint 5",
     "✨ LLM",
-    "✨ BackEnd WiKi",
-    "✨ FrontEnd WiKi",
-    "✏️ Sprint",
-    "✏️ Daily Scrum"
+    "✨ BackEnd WiKi"
   ]
 }
