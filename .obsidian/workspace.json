@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41c2792d28b6c618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 6/daily scrum 7.9.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 6/daily scrum 7.9.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 6/daily scrum 7.9.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c0420b8ca909151",
+  "active": "41c2792d28b6c618",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.8.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.9.md",
+    "conflict-files-obsidian-git.md",
+    "✏️ Daily Scrum/sprint 6/daily scrum 7.8.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.10.md",
     "✨ BackEnd WiKi/Kibana 궁금한 점.md",
@@ -174,7 +188,6 @@
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.9.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.8.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 7",
     "✏️ Daily Scrum/sprint 6",
     "✏️ Daily Scrum/sprint 5",
