@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6053b433afd4db2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4704da6c34f4d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📍 Commit Messge Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e5ddf8f3fba353",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc9ff9b91094ba2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,21 +195,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c0420b8ca909151",
+  "active": "fc9ff9b91094ba2d",
   "lastOpenFiles": [
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+    "conflict-files-obsidian-git.md",
+    "📍 Commit Messge Rules.md",
+    "🖋 네이밍.md",
+    "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
+    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.12.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.11.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.9.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.8.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.6.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.6.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.8.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.9.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.11.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.10.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.11.md",
     "2024-07-12.md",
@@ -168,13 +224,6 @@
     "✏️ Daily Scrum/sprint 5/daily scrum 7.2.md",
     "✏️ Daily Scrum/sprint 5/daily scrum 6.28.md",
     "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
-    "✨ BackEnd WiKi/ERD 수정사안.md",
-    "✨ BackEnd WiKi/🗂 Backend-Package 구조.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 6.30.md",
-    "✏️ Daily Scrum/sprint 5/daily scrum 7.1.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.5.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
     "✏️ Daily Scrum/sprint 6",
