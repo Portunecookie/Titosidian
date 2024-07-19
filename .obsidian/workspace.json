@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c0420b8ca909151",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6053b433afd4db2c",
             "type": "leaf",
             "state": {
@@ -49,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md"
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md"
               }
             }
           }
@@ -183,9 +171,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "775716a8f68b2972",
+  "active": "36e5ddf8f3fba353",
   "lastOpenFiles": [
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.18.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
     "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+    "conflict-files-obsidian-git.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.25.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.23.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
     "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.17.md",
@@ -202,16 +200,6 @@
     "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
     "✨ BackEnd WiKi/기록) CSRF & CORS.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.13.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.12.md",
-    "✏️ Daily Scrum/sprint 6/daily scrum 7.11.md",
-    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
-    "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.11.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.7.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
     "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
