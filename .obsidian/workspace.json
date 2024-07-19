@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+                "file": "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "right": {
     "id": "2f6dd8076ca76fa8",
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
+                "file": "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
+                "file": "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨ BackEnd WiKi/Spring boot - MySQL 연동.md"
+                "file": "✨ BackEnd WiKi/웹 소켓(Web Socket).md"
               }
             }
           }
@@ -184,8 +182,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99ddc15a66413acf",
+  "active": "9305896d9f6b08e5",
   "lastOpenFiles": [
+    "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.25.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.23.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
     "image.zip/Pasted image 20240719154053.png",
     "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
     "✨ BackEnd WiKi/기록) 패키지 구조 가이드.md",
@@ -204,19 +210,12 @@
     "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
     "✨ BackEnd WiKi/기록) Users와 UserProfile, 분리된 테이블과 단일 테이블.md",
     "README.md",
-    "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
     "image.zip/Pasted image 20240717140309.png",
     "image.zip/Pasted image 20240717140151.png",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.15.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.13.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.12.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.17.md",
-    "✨ Deployment/백엔드 배포 계획.md",
     "✨ Deployment",
     "image.zip/Pasted image 20240717102744.png",
-    "✨ BackEnd WiKi/기록) JWT.md",
-    "✨ BackEnd WiKi/패키지 구조 가이드.md",
     "image.zip/Pasted image 20240712181246.png",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
@@ -228,7 +227,6 @@
     "image.zip/Pasted image 20240704011357.png",
     "image.zip/Pasted image 20240704003432.png",
     "image.zip/Pasted image 20240704002916.png",
-    "image.zip/Pasted image 20240704003349.png",
     "✏️ Sprint/sprint 5",
     "image.zip",
     "✏️ Daily Scrum/sprint 5",
