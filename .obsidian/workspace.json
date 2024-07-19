@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "343aa5dff8898dd1",
+        "id": "91b7e94f42543a42",
         "type": "tabs",
         "children": [
           {
-            "id": "a52937f5d56e52d7",
+            "id": "9305896d9f6b08e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7e13d1e080fad27a",
+            "id": "99ddc15a66413acf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab82151ed937139b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bdfcc5dad01a2b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✨ BackEnd WiKi/기록) CSRF & CORS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
+                "file": "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
+                "file": "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md"
+                "file": "✨ BackEnd WiKi/Spring boot - MySQL 연동.md"
               }
             }
           }
@@ -159,38 +184,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a52937f5d56e52d7",
+  "active": "99ddc15a66413acf",
   "lastOpenFiles": [
+    "image.zip/Pasted image 20240719154053.png",
+    "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
+    "✨ BackEnd WiKi/기록) 패키지 구조 가이드.md",
+    "✨ BackEnd WiKi/기록) Access Token & Refresh Token.md",
+    "✨ BackEnd WiKi/기록) 인터페이스 (Interface) vs 구현체 (Implementation).md",
+    "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
+    "✨ BackEnd WiKi/기록) 채팅 로직 관련.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
+    "📍 Commit Messge Rules.md",
+    "2024-07-12.md",
+    "무제 파일.canvas",
+    "🖋 네이밍.md",
+    "✨ BackEnd WiKi/application.yaml.md",
+    "✨ BackEnd WiKi/기록) CSRF & CORS.md",
+    "✨ BackEnd WiKi/웹소켓 프론트엔드 개발자에게 전달할 사항.md",
+    "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
+    "✨ BackEnd WiKi/기록) Users와 UserProfile, 분리된 테이블과 단일 테이블.md",
+    "README.md",
+    "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
+    "image.zip/Pasted image 20240717140309.png",
+    "image.zip/Pasted image 20240717140151.png",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.15.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.13.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.12.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.17.md",
     "✨ Deployment/백엔드 배포 계획.md",
     "✨ Deployment",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
     "image.zip/Pasted image 20240717102744.png",
-    "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
-    "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
-    "✨ BackEnd WiKi/application.yaml.md",
-    "✨ BackEnd WiKi/기록) Users와 UserProfile, 분리된 테이블과 단일 테이블.md",
-    "✨ BackEnd WiKi/기록) CSRF & CORS.md",
-    "📍 Commit Messge Rules.md",
     "✨ BackEnd WiKi/기록) JWT.md",
-    "🖋 네이밍.md",
-    "✨ BackEnd WiKi/기록) Access Token & Refresh Token.md",
     "✨ BackEnd WiKi/패키지 구조 가이드.md",
-    "✨ BackEnd WiKi/인터페이스 (Interface) vs 구현체 (Implementation).md",
-    "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
-    "README.md",
-    "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
-    "✨ BackEnd WiKi/Request (요청) vs Response(응답).md",
-    "✨ BackEnd WiKi/Kibana 궁금한 점.md",
-    "✨ BackEnd WiKi/git stash 명령어 사용하기.md",
-    "✨ BackEnd WiKi/ERD 수정사안.md",
-    "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
-    "✨ BackEnd WiKi/기록) 패키지 구조 가이드.md",
     "image.zip/Pasted image 20240712181246.png",
-    "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
     "✏️ Daily Scrum/sprint 6 - 복사본 (2)",
@@ -202,8 +229,6 @@
     "image.zip/Pasted image 20240704003432.png",
     "image.zip/Pasted image 20240704002916.png",
     "image.zip/Pasted image 20240704003349.png",
-    "image.zip/Pasted image 20240704002158.png",
-    "image.zip/Pasted image 20240702232219.png",
     "✏️ Sprint/sprint 5",
     "image.zip",
     "✏️ Daily Scrum/sprint 5",
