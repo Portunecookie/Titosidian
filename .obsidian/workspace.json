@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md"
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md"
               }
             }
           }
@@ -183,34 +183,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "36e5ddf8f3fba353",
+  "active": "775716a8f68b2972",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.15.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.13.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
     "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.17.md",
+    "✨ Deployment/백엔드 배포 계획.md",
+    "✨ Deployment",
+    "✨ BackEnd WiKi/기록) 인터페이스 (Interface) vs 구현체 (Implementation).md",
+    "✨ BackEnd WiKi/기록) Access Token & Refresh Token.md",
+    "✨ BackEnd WiKi/Request (요청) vs Response(응답).md",
+    "✨ BackEnd WiKi/README.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.15.md",
+    "✨ BackEnd WiKi/기록) 패키지 구조 가이드.md",
+    "✨ BackEnd WiKi/기록) Users와 UserProfile, 분리된 테이블과 단일 테이블.md",
+    "✨ BackEnd WiKi/기록) JWT.md",
+    "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
+    "✨ BackEnd WiKi/기록) CSRF & CORS.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.13.md",
     "✨ FrontEnd WiKi/FrontEnd WiKi.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.12.md",
     "✏️ Daily Scrum/sprint 6/daily scrum 7.11.md",
-    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
     "✨ BackEnd WiKi/IntelliJ 단축키 모음.md",
     "✨ BackEnd WiKi/Spring Boot 프로젝트 구조.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.11.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.5.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.7.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
-    "✨ BackEnd WiKi/패키지 구조 가이드.md",
-    "✨ BackEnd WiKi/git stash 명령어 사용하기.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.18.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.17.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
-    "conflict-files-obsidian-git.md",
-    "📍 Commit Messge Rules.md",
-    "🖋 네이밍.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.10.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.9.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.8.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.6.md",
     "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
@@ -230,7 +231,6 @@
     "✨ LLM",
     "✨ BackEnd WiKi",
     "✨ FrontEnd WiKi",
-    "✏️ Sprint",
-    "✏️ Daily Scrum"
+    "✏️ Sprint"
   ]
 }
