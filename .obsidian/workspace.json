@@ -54,9 +54,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b1e0e87c4034f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ea34c71ce009b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a04565d7be6faa0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -183,18 +219,28 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "86763ed2c54bed7b",
+  "active": "a04565d7be6faa0c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+    "✏️ Sprint/sprint 5 (6.28-7.4).md",
+    "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
+    "✨ BackEnd WiKi/기록) 채팅 로직 관련.md",
+    "✨ BackEnd WiKi/application.yaml.md",
+    "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
+    "image.zip/Pasted image 20240719154053.png",
+    "image.zip/Pasted image 20240717140151.png",
+    "image.zip/Pasted image 20240717102744.png",
+    "image.zip/Pasted image 20240712181246.png",
+    "README.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.18.md",
     "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
-    "conflict-files-obsidian-git.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.25.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.23.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
     "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
@@ -206,12 +252,6 @@
     "✨ BackEnd WiKi/Request (요청) vs Response(응답).md",
     "✨ BackEnd WiKi/README.md",
     "✏️ Daily Scrum/sprint 7/daily scrum 7.15.md",
-    "✨ BackEnd WiKi/기록) 패키지 구조 가이드.md",
-    "✨ BackEnd WiKi/기록) Users와 UserProfile, 분리된 테이블과 단일 테이블.md",
-    "✨ BackEnd WiKi/기록) JWT.md",
-    "✨ BackEnd WiKi/기록) IntelliJ 단축키 모음.md",
-    "✨ BackEnd WiKi/기록) CSRF & CORS.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.14.md",
     "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
@@ -223,10 +263,6 @@
     "image.zip/Pasted image 20240704011357.png",
     "image.zip/Pasted image 20240704011619.png",
     "image.zip/Pasted image 20240704003511.png",
-    "image.zip/Pasted image 20240704002158.png",
-    "image.zip/Pasted image 20240704002908.png",
-    "image.zip/Pasted image 20240704003349.png",
-    "image.zip/Pasted image 20240704002916.png",
     "image.zip",
     "✨ LLM",
     "✨ BackEnd WiKi",
