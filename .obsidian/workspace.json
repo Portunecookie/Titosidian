@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
+                "file": "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86763ed2c54bed7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md"
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md"
               }
             }
           }
@@ -171,10 +183,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "36e5ddf8f3fba353",
+  "active": "86763ed2c54bed7b",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.18.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
+    "✏️ Daily Scrum/sprint 7/daily scrum 7.18.md",
     "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
     "conflict-files-obsidian-git.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.25.md",
