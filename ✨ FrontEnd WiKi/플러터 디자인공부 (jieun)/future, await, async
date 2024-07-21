@@ -1,0 +1,50 @@
+# 1. 동기와 비동기
+동기 : 모든 동작을 차례대로 완료 후 수행하는 것
+비동기 : 어떤 동작이 완료되지 않아도 다음 동작을 수행하는 것
+
+# 2. Future
+비동기 처리를 위해 존재하는 , 미래에 요청한 데이터나 에러가 담길 공간
+
+Ex _ ) `Future<int>` : 지금 당장은 사용하지 않지만 언젠가 int나 error 가 나올 것이라는 것. 즉, int가 나올 때를 대비한 메소드와 error 가 나올 경우를 대비한 catchError 메소드를 준비해야 하는 것
+
+```dart
+//출처는 velog import 'dart:async';
+
+Future<int> futureNumber() {
+  // 3초 후 100이 상자에서 나옵니다
+  return Future<int>.delayed(Duration(seconds: 3), () {
+    return 100;
+  });
+}
+
+void main() {
+  // future 라는 변수에서 미래에(3초 후에) int가 나올 것입니다
+  Future<int> future = futureNumber();
+
+  future.then((val) {
+    // int가 나오면 해당 값을 출력
+    print('val: $val');
+  }).catchError((error) {
+    // error가 해당 에러를 출력
+    print('error: $error');
+  });
+
+  print('기다리는 중');
+}
+```
+- `future.then()` 을 통해 `Future<int>` 에서 나오는 값을 다르고 있는 것
+- 비동기로 처리하지 않았다면 `Future<int>` 에서 값이 나올 때까지 코드는 실행되지 않고 정지상태로 있을 것
+
+# 3. async & await
+1. `await` 키워드를 사용한 함수는 무조건 `async` 함수이어야 함
+2. `async` 함수는 무조건 `Future` 를 반환해야 함 
+
+```dart
+Future functionName() async {
+	...
+    await someFunction();
+    ...
+}
+```
+
+`await` 키워드가 붙은 동작이 완료될 때까지 함수는 정지되고 해당 동작이 끝나고 나면 바로 결과를 넘겨주게 된다
