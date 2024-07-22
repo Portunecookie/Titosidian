@@ -54,24 +54,24 @@ Widget은 Flutter 앱의 모든 시각적 요소를 표현한다.
 > Bring animations to your app
 
 - `AnimatedAlign` : 지정된 기간 동안 child에 해당하는 부분의 위치를 바꾸는 것
-	_ex) 토론 시작 전 설명 페이지에서 움직임 줄 때  
+	- _ex) 토론 시작 전 설명 페이지에서 움직임 줄 때  
 - `AnimatedBuilder`: 복잡한 위젯 자체에 애니메이션 포함 시 
 	- 단순한 경우에는 AnimatedWidget 사용 권장
     - *`AnimatedWidget`, `AnimatedController` 등 사용 시 부드러운 애니메이션 구현 가능*
-    _ex) 처음 앱 켰을 때, 앱 로고 돌아가는 것, 깜빡거리는 거나 돌아가는 거 적용 시
+    - _ex) 처음 앱 켰을 때, 앱 로고 돌아가는 것, 깜빡거리는 거나 돌아가는 거 적용 시
 - `AnimatedContainer` : borders, background images, shadows, gradients, shapes, padding, width, height, alignment, transforms 등..을 적용해 애니메이션 적용할 때
 - `AnimatedCrossFade`: 2개 다 위젯형태이고, 비슷한 형식인데 점진적으로 다른 위젯으로 바뀔 때 사용
-	_ex) 같은 위젯 속에서 사진이 바뀔 때, Add to cart 버튼이었다가 다 팔리면 Sold out으로 바뀔 때, 같은 위치에 있을 때 fade out, fade in 형식으로 바뀔 때 (같은 위치나 위젯 간 크기가 달라도 가능)
+	- _ex) 같은 위젯 속에서 사진이 바뀔 때, Add to cart 버튼이었다가 다 팔리면 Sold out으로 바뀔 때, 같은 위치에 있을 때 fade out, fade in 형식으로 바뀔 때 (같은 위치나 위젯 간 크기가 달라도 가능)
 - `AnimatedList` : 추가 및 삭제가 빈번히 이뤄지는 List 형식 일때
-	_ex) 채팅 화면, 차단자 목록화면, 알림화면 등.. 대부분의 리스트
+	- _ex) 채팅 화면, 차단자 목록화면, 알림화면 등.. 대부분의 리스트
 - `AnimatedListState` : `insertItem`과 함께 항목을 삽입하면 애니메이션이 실행되기 시작하는데 항목의 위젯이 필요할 때마다 애니메이션은 `AnimatedList.itemBuilder`로 전달된다. 	`removeItem` 으로 항목을 제거하면 해당 항목의 애니메이션이 삭제되고 제거된 항목의 애니메이션은 `removeItembuilder` 파라미터로 전달된다. 
 - `AnimatedOpacity` : Fade 애니메이션 적용
 - `AnimatedPositioned` : Stack에서만 작동하며 위치만 변경된 하려할 때 (가로 / 세로는 바뀌어도 됨) 
 - `AnimatedSize` : 주어진 기간이나 클릭 시, 위젯크기를 바꿔줌
 - `AnimatedWidget` : Listenable 한 값이 변경될 때 rebuild 되는 Widget
 - `DecoratedBoxTransition` : Box에 적용가능한 다양한 속성을 애니메이션화한 것
-	_ex) 휴대폰 홈 화면에서 앱의 둥근 정도가 어떻게 띄워질지 (핸드폰 메뉴창에서)
+	- _ex) 휴대폰 홈 화면에서 앱의 둥근 정도가 어떻게 띄워질지 (핸드폰 메뉴창에서)
 - `FadeTransiton` : Fade 애니메이션 
 - `Hero` : 페이지 경로가 팝업되거나 밀리면서 전체화면이 바뀌는 것. 
-	_ex) 인스타에서 피드게시물 사진 클릭시 전체 게시물 뜨는 방식
+	- _ex) 인스타에서 피드게시물 사진 클릭시 전체 게시물 뜨는 방식
 - `ScaleTransition` : 위젯이 서서히 확대 및 축소되는 애니메이션
