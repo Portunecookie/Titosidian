@@ -181,6 +181,9 @@ Container(
 
 위의 방법대로 하면 `MediaQuery`를 사용한 방법보다 간결히 기기별로 화면 크기를 조절할 수 있다.
 
+`ScreenUtilInit` 에 기본적으로 넣어야 하는 것은 2가지인데, 하나는 `designSize` 필드와 `builder` 이다. 
+`designSize` 에는 Size(width, height) 로 기준이 될 사이즈가 넣어주고 `builder` 에는 위의 코드와 같이 `MaterialApp()` 을 반환할 수 있게 해주면 된다.
+
 ---
 
 위의 두 가지 방법 중, 
