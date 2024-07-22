@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#그래서tag:#그래서",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨ FrontEnd WiKi/사용할만한 라이브러리.md"
+                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md"
               }
             }
           }
@@ -186,16 +185,27 @@
   },
   "active": "36e5ddf8f3fba353",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Flutter Hooks.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/플터러 공부.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/애니매이션 효과 높이는 법.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
-    "image.zip/Pasted image 20240721125445.png",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Widget 추천.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)",
+    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
+    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
     "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/플터러 공부.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Basic & Input & Layout & Scroll Widgets.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Adaptive Design 공부.md",
+    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/애니매이션 효과 높이는 법.md",
+    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Flutter Hooks.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/동기 및 비동.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/상태관리 GetX.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/상태관리 Riverpod.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Flutter Hooks.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Accessibility & Animation Widgets.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)",
+    "✨ BackEnd WiKi/브로드캐스트.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
+    "image.zip/Pasted image 20240721125445.png",
+    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)",
     "conflict-files-obsidian-git.md",
     "✏️ Sprint/sprint 5 (6.28-7.4).md",
     "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
@@ -208,17 +218,7 @@
     "image.zip/Pasted image 20240712181246.png",
     "README.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.18.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.25.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.23.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.5.md",
-    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.16.md",
-    "✏️ Daily Scrum/sprint 7/daily scrum 7.17.md",
-    "✨ Deployment/백엔드 배포 계획.md",
     "✨ Deployment",
-    "✨ BackEnd WiKi/기록) 인터페이스 (Interface) vs 구현체 (Implementation).md",
     "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
@@ -231,7 +231,6 @@
     "image.zip/Pasted image 20240704011619.png",
     "image.zip",
     "✨ LLM",
-    "✨ BackEnd WiKi",
-    "✨ FrontEnd WiKi"
+    "✨ BackEnd WiKi"
   ]
 }
