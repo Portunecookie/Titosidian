@@ -1,3 +1,6 @@
+# 프로젝트에서 사용할 Widget들 정리
+---
+
 # Basic Widets
 - `FlutterLogo` : 앱 로고를 image말고 해당 위젯을 사용해야 할 것 같다
 - `Placeholder` : 한 화면에 각각 다른 UI를 실행해야 할 때 이용되며 이 위젯은 가능한 모든 공간을 채울 수 있도록 확장된다
@@ -28,4 +31,9 @@
 - `DraggableScrollableSheet` : scroll 하는 부분까지 화면 창이 올라오고 내려오고 하는 것
 	- _ex) 실시간 채팅 scroll 해서 올리고 내리고 가능
 
-   
+---
+
+# Touch Interaction Widgets
+- `Dismissible` : 슬라이드 옆으로 하면 삭제되는 것 같은 리스트
+- `GestureDetector` : 제스터를 감지하는 위젯
+- `IgnorePointer` : Ignore를 걸면 버튼이 클릭안되는 것 같은 효과
