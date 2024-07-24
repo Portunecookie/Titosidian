@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md"
+                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md"
               }
             }
           }
@@ -185,22 +185,28 @@
   },
   "active": "36e5ddf8f3fba353",
   "lastOpenFiles": [
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.23.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Widget 추천.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
-    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
-    "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/screenUtil 적용 공부.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/플터러 공부.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Basic & Input & Layout & Scroll Widgets.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Adaptive Design 공부.md",
+    "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/애니매이션 효과 높이는 법.md",
+    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Flutter Hooks.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/동기 및 비동.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/상태관리 GetX.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/상태관리 Riverpod.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Flutter Hooks.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Accessibility & Animation Widgets.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Adaptive Design 공부.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Basic & Input & Layout & Scroll Widgets.md",
+    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Flutter Hooks.md",
+    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
+    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
+    "image.zip/Pasted image 20240723141639.png",
+    "✨ BackEnd WiKi/OAuth 참고 사이트.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)",
     "✨ BackEnd WiKi/브로드캐스트.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.20.md",
@@ -209,15 +215,10 @@
     "conflict-files-obsidian-git.md",
     "✏️ Sprint/sprint 5 (6.28-7.4).md",
     "✨ BackEnd WiKi/웹 소켓(Web Socket).md",
-    "✨ BackEnd WiKi/기록) 채팅 로직 관련.md",
-    "✨ BackEnd WiKi/application.yaml.md",
-    "✨ BackEnd WiKi/Spring boot - MySQL 연동.md",
     "image.zip/Pasted image 20240719154053.png",
     "image.zip/Pasted image 20240717140151.png",
     "image.zip/Pasted image 20240717102744.png",
     "image.zip/Pasted image 20240712181246.png",
-    "README.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.19.md",
     "✨ Deployment",
     "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
@@ -228,7 +229,6 @@
     "image.zip/Pasted image 20240704003432.png",
     "image.zip/Pasted image 20240704011648.png",
     "image.zip/Pasted image 20240704011357.png",
-    "image.zip/Pasted image 20240704011619.png",
     "image.zip",
     "✨ LLM",
     "✨ BackEnd WiKi"
