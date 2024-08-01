@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64bea45589f7e9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cd115de9e9e9fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d20c831d81125961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,8 +183,29 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7957b4e2c1473cac",
+  "active": "d20c831d81125961",
   "lastOpenFiles": [
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.2.md",
+    "conflict-files-obsidian-git.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 8.1.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.8.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.7.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.5.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.4.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.30.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.28.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.27.md",
+    "무제 폴더 1",
+    "✏️ Daily Scrum/sprint 10",
+    "✏️ Sprint/sprint 5 (6.28-7.4).md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.31.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.29.md",
+    "✨ FrontEnd WiKi/log Error/log 오류 해결(1).md",
+    "✨ FrontEnd WiKi/log Error",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/애니매이션 효과 높이는 법.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/플터러 공부.md",
@@ -156,24 +214,6 @@
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Widget 추천.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Adaptive Design 공부.md",
     "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Flutter Hooks.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/screenUtil 적용 공부.md",
-    "✨ FrontEnd WiKi/사용할만한 라이브러리.md",
-    "✨ FrontEnd WiKi/웹 소켓 http 장단점.md",
-    "✨ FrontEnd WiKi/플러터의 생명주기.md",
-    "✨ FrontEnd WiKi/FrontEnd WiKi.md",
-    "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization/플러터의 3가지 Trees.md",
-    "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization/Performance 및 성능 개요.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.31.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.30.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.29.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.27.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/상태관리 Riverpod.md",
-    "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization/렌더링의 중요성.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 8.1.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.28.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.24.md",
-    "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization/성능 모범 사례.md",
     "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization",
     "✏️ Daily Scrum/sprint 9",
     "image.zip/Pasted image 20240723141639.png",
@@ -188,12 +228,9 @@
     "무제 파일.canvas",
     "✏️ Daily Scrum/sprint 8",
     "✏️ Daily Scrum/sprint 7",
-    "✏️ Daily Scrum/sprint 6",
-    "✏️ Daily Scrum/sprint 5",
     "image.zip/Pasted image 20240704145708.png",
     "image.zip/Pasted image 20240704003432.png",
     "image.zip/Pasted image 20240704011648.png",
-    "image.zip/Pasted image 20240704011357.png",
-    "image.zip"
+    "image.zip/Pasted image 20240704011357.png"
   ]
 }
