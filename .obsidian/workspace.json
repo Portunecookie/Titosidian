@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md"
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md"
               }
             }
           }
@@ -173,11 +173,22 @@
   },
   "active": "6cd115de9e9e9fda",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.5.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.2.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.4.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.5.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+    "✨ Release/웹앱) 플레이스토어 심사 거절.md",
+    "✨ Release/앱스토어 심사 승인 거절 사례 (17가지).md",
+    "✨ Release",
+    "✨ FrontEnd WiKi/Flutter 공식문서/플러터의 3가지 Trees.md",
+    "✨ FrontEnd WiKi/Flutter 공식문서/성능 모범 사례.md",
+    "✨ FrontEnd WiKi/Flutter 공식문서/렌더링의 중요성.md",
+    "✨ FrontEnd WiKi/Flutter 공식문서/Performance 및 성능 개요.md",
+    "✨ FrontEnd WiKi/Flutter 공식문서",
+    "image.zip/Pasted image 20240803102538.png",
+    "image.zip/Pasted image 20240803101820.png",
+    "image.zip/Pasted image 20240803101801.png",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.8.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.7.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 7.31.md",
@@ -196,12 +207,6 @@
     "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
     "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
     "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/애니매이션 효과 높이는 법.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/플터러 공부.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/API통신.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Flutter Hooks.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/Widget 추천.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Adaptive Design 공부.md",
-    "✨ FrontEnd WiKi/플러터 디자인공부 (jieun)/Flutter Hooks.md",
     "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization",
     "✏️ Daily Scrum/sprint 9",
     "image.zip/Pasted image 20240723141639.png",
@@ -214,11 +219,6 @@
     "image.zip/Pasted image 20240712181246.png",
     "✨ Deployment",
     "무제 파일.canvas",
-    "✏️ Daily Scrum/sprint 8",
-    "✏️ Daily Scrum/sprint 7",
-    "image.zip/Pasted image 20240704145708.png",
-    "image.zip/Pasted image 20240704003432.png",
-    "image.zip/Pasted image 20240704011648.png",
-    "image.zip/Pasted image 20240704011357.png"
+    "image.zip/Pasted image 20240704145708.png"
   ]
 }
