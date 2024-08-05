@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cd115de9e9e9fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md"
+                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md"
               }
             }
           }
@@ -171,13 +159,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6cd115de9e9e9fda",
+  "active": "64bea45589f7e9ae",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.2.md",
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.4.md",
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.5.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.5.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.4.md",
+    "✨ FrontEnd WiKi/팝업 더보기 메뉴의 여정.md",
+    "✨ Deployment/라즈베리파이 현황.md",
+    "✨ Deployment/라즈베리파이 명령어.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.3.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.2.md",
     "✨ Release/웹앱) 플레이스토어 심사 거절.md",
     "✨ Release/앱스토어 심사 승인 거절 사례 (17가지).md",
     "✨ Release",
@@ -194,7 +186,6 @@
     "✏️ Daily Scrum/sprint 9/daily scrum 7.31.md",
     "conflict-files-obsidian-git.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 8.1.md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 7.30.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 7.28.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 7.27.md",
@@ -204,9 +195,6 @@
     "✏️ Daily Scrum/sprint 9/daily scrum 7.29.md",
     "✨ FrontEnd WiKi/log Error/log 오류 해결(1).md",
     "✨ FrontEnd WiKi/log Error",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.21.md",
-    "✏️ Daily Scrum/sprint 8/daily scrum 7.22.md",
-    "✨ FrontEnd WiKi/플러터 공부 폴더 (junha's)/애니매이션 효과 높이는 법.md",
     "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization",
     "✏️ Daily Scrum/sprint 9",
     "image.zip/Pasted image 20240723141639.png",
