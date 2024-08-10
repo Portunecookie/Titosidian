@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+                "file": "✏️ Daily Scrum/sprint 11/daily scrum 8.10.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+                "file": "✏️ Daily Scrum/sprint 11/daily scrum 8.10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+                "file": "✏️ Daily Scrum/sprint 11/daily scrum 8.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md"
+                "file": "✏️ Daily Scrum/sprint 11/daily scrum 8.10.md"
               }
             }
           }
@@ -161,8 +161,14 @@
   },
   "active": "64bea45589f7e9ae",
   "lastOpenFiles": [
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.8.md",
+    "✏️ Daily Scrum/sprint 11/daily scrum 8.10.md",
+    "✏️ Daily Scrum/sprint 11",
+    "✏️ Daily Scrum/sprint 10/daily scrum 8.7.md",
+    "✏️ Sprint/sprint 5 (6.28-7.4).md",
+    "✏️ Daily Scrum/sprint 8/daily scrum 7.23.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.6.md",
+    "✏️ Daily Scrum/sprint 9/daily scrum 7.26.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.5.md",
     "✏️ Daily Scrum/sprint 10/daily scrum 8.4.md",
     "✨ FrontEnd WiKi/팝업 더보기 메뉴의 여정.md",
@@ -181,8 +187,6 @@
     "image.zip/Pasted image 20240803102538.png",
     "image.zip/Pasted image 20240803101820.png",
     "image.zip/Pasted image 20240803101801.png",
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.8.md",
-    "✏️ Daily Scrum/sprint 10/daily scrum 8.7.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 7.31.md",
     "conflict-files-obsidian-git.md",
     "✏️ Daily Scrum/sprint 9/daily scrum 8.1.md",
@@ -191,9 +195,6 @@
     "✏️ Daily Scrum/sprint 9/daily scrum 7.27.md",
     "무제 폴더 1",
     "✏️ Daily Scrum/sprint 10",
-    "✏️ Sprint/sprint 5 (6.28-7.4).md",
-    "✏️ Daily Scrum/sprint 9/daily scrum 7.29.md",
-    "✨ FrontEnd WiKi/log Error/log 오류 해결(1).md",
     "✨ FrontEnd WiKi/log Error",
     "✨ FrontEnd WiKi/Flutter 공식문서 : Performance & Optimization",
     "✏️ Daily Scrum/sprint 9",
@@ -205,7 +206,6 @@
     "image.zip/Pasted image 20240717140151.png",
     "image.zip/Pasted image 20240717102744.png",
     "image.zip/Pasted image 20240712181246.png",
-    "✨ Deployment",
     "무제 파일.canvas",
     "image.zip/Pasted image 20240704145708.png"
   ]
